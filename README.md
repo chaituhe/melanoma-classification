@@ -26,7 +26,7 @@ This pipeline is modeled after the **SIIM-ISIC Melanoma Challenge** dataset.
 melanoma-classification/
 │
 ├── eda/
-│ └── eda2.ipynb # Clean, structured EDA notebook (recommended for reviewers)
+│ └── eda.ipynb # Clean, structured EDA notebook (recommended for reviewers)
 │
 ├── src/
 │ ├── dataset.py # Dataset class + Albumentations image transforms
